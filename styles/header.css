@@ -25,6 +25,11 @@ header .container {
   margin-bottom: 8px;
 }
 
+#profile img {
+  width: 176px;
+  height: 176px;
+}
+
 
 #info {
   list-style: none;
